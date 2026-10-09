@@ -1,0 +1,51 @@
+ProLink Tech Co.
+
+
+
+HERE IS MY EXPLANATION FOR EVERY RECORDED FINANCIAL TRANSACTION:
+
+
+
+The first line is OB, which stands for opening balance. I input the ending values of accounts from the September 2025 balance sheet as my opening balances. For example, according to the September 2025 balance sheet, the fixed assets value is $22,000, and the inventories amount is $18,500.
+
+
+1. The first transaction is to record the payment of $9,200 of accounts payable to suppliers. This transaction reduces cash and accounts payable by $9,200.
+[Cash -$9,200 | Accounts Payable -$9,200]
+
+
+2. The second transaction is the collection of $6,800 of accounts receivable from customers. This transaction increases cash and decreases accounts receivable by $6,800.
+[Cash +$6,800 | Accounts Receivable -$6,800]
+
+
+3. The third transaction is the sale of merchandise originally costing $7,400 for $12,500, of which 40% is on credit and the remaining 60% is in cash. I recorded this transaction in two steps. First, I created revenue on the income statement column for the total amount of $12,500. Since 40% of the revenue is on credit, I created accounts receivable of 40% × $12,500, which equals $5,000. The rest of the revenue, 60% × $12,500, is recorded as an increase to cash by $7,500. Second, I recorded the cost of the sale. Inventories decrease by $7,400, and the same amount is recorded as a negative value (cost of goods sold) on the income statement.
+[Income Statement +$12,500]
+[Accounts Receivable +$5,000 | Cash +$7,500]
+[Inventories -$7,400 | Income Statement -$7,400]
+
+4. The fourth transaction is the payment of $4,100 for employee wages in cash. Cash decreases by $4,100, and the same amount is recorded as wage expense on the income statement.
+[Cash -$4,100 | Income Statement -$4,100]
+
+5. The fifth transaction is the purchase of merchandise from suppliers on credit for $3,600. The merchandise purchase increases inventories by $3,600, and at the same time, it is recorded as an increase in accounts payable as the firm has not paid for the purchase yet.
+[Inventories +$3,600 | Accounts Payable +$3,600]
+
+6. The sixth transaction is the issue of 400 shares of common stock in exchange for $3,000 in cash. This transaction increases both the cash account and the common stock account by $3,000.
+[Cash +$3,000 | Common Stock +$3,000]
+
+7. The seventh transaction occurs on 1 May 2026, when the company prepays an annual insurance premium of $1,800. This policy covers 1 May 2026 through 30 April 2027. This is an annual insurance policy, so the monthly insurance cost is $1,800 divided by 12 months, which equals $150. First, cash decreases by $1,800. Since this policy starts in May 2026, the firm uses this policy for the five months of May, June, July, August, and September 2026, resulting in an insurance expense of 5 months × $150, which equals $750. The rest of the policy is $1,050, which is recorded as prepaid insurance and will be used by the firm in the next fiscal year.
+[Cash -$1,800]
+[Income Statement -$750]
+[Prepaid Insurance +$1,050]
+
+
+8. The eighth transaction is a dividend declaration on 15 September 2026 for $500, which will be paid in October. Because the fiscal year ends in September, this creates a dividend payable of $500, and I reduced retained earnings by the same amount.
+[Dividends Payable +$500 | Retained Earnings -$500]
+
+I calculated CB, which stands for closing balances, by summing all numbers in each account. For example, the closing cash balance is $12,800 – $9,200 + $6,800 + $7,500 – $4,100 + $3,000 – $1,800, which equals $15,000.
+
+
+**IMPORTANT NOTE**
+
+After finishing the financial transactions, I reflected the net income on retained earnings. Summing all numbers in the income statement column ($12,500 – $7,400 – $4,100 – $750) yields $250. The firm made a profit of $250. This amount is added to retained earnings. To ensure the accounting equation holds, I zeroed out the income statement column and transferred the $250 balance to retained earnings.
+
+
+
