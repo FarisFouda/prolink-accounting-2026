@@ -1,0 +1,28 @@
+OVERVIEW
+
+This project is a practical accounting training exercise created while studying the Financial Accounting: Foundations course from the University of Illinois (Gies College of Business). The goal of this project is to apply core financial accounting principles in a hands-on environment—specifically practicing transaction analysis, completing a double-entry transaction worksheet, recording accrual adjustments, closing temporary accounts at year-end, and drafting a formal set of financial statements (Income Statement and Balance Sheet).
+
+COMPANY CONTEXT:
+
+- Company Name: ProLink Tech Co.
+- Fiscal Year Period: 1 October 2025 – 30 September 2026
+- Industry & Operations: Retail sale of consumer electronics and tech accessories on both cash and credit terms.
+
+KEY LEARNING OBJECTIVES & CONCEPTS COVERED:
+
+1. Transaction Analysis & Worksheet Recording:
+   - Recording asset, liability, and equity movements on a full accounting worksheet.
+   - Distinguishing between operating revenue/expenses and pure balance sheet exchanges (e.g., collecting receivables, paying accounts payable, purchasing inventory on credit, and issuing common stock).
+
+2. Accrual Accounting & Adjusting Entries:
+   - Calculating and recording time-apportioned prepaid expenses (annual insurance premium spanning across fiscal years).
+   - Accruing liabilities for declared but unpaid dividends at year-end.
+
+3. Year-End Closing & Accounting Equation Verification:
+   - Closing out temporary Income Statement accounts to zero at fiscal year-end.
+   - Transferring Net Income into the Retained Earnings account within Equity.
+   - Verifying that Total Assets always equal Total Liabilities plus Total Equity (A = L + E).
+
+4. Financial Statement Preparation:
+   - Reorganizing worksheet data to construct a multi-step Income Statement (Sales, Cost of Goods Sold, Gross Profit, Operating Expenses, and Net Income).
+   - Preparing a comparative Balance Sheet reflecting beginning-of-year and end-of-year financial position.
